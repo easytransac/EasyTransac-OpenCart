@@ -1,2 +1,2 @@
 # EasyTransac-OpenCart
-Easytransac payment gateway module for OpenCart v4.0
+Easytransac payment gateway module for OpenCart v4.0.x
